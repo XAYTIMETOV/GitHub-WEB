@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#general{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    align-items: center;
+}
+
+p{
+    font-size: 80px;
+    
+}
+
+img{
+    width: 250px;
+}
+
+a{
+    margin-top: 50px;
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    border: solid 2px black;
+    padding: 5px 15px;
+    border-radius: 50px;
+}
