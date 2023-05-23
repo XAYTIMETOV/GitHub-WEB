@@ -120,6 +120,7 @@ form p{
 }
 
 #sub-btn a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 5px 10px;
     font-size: 20px;
     text-decoration: none;
