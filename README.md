@@ -15,6 +15,7 @@ Assalomu Alekum !
 5.Bron qilishinng kerakli ma'lumotlari to'ldirilgandan keyin, "credit card" ya'ni plastik kartochka ma'lumotlarini kirish so'raladi.
 ![add-card](https://github.com/XAYTIMETOV/GitHub-WEB/assets/127207945/b2bf0698-6e99-4372-952c-46ccca9fd8d1)
 
+6.Ma'lumotlar to'liq kiritilgandan keyin xona bron qilinadi.
 
 VA YANA QO'SHIMCHA 3 XIL TIL MAVJUD(RUSCHA, O'ZBEKCHA, INGLIZCHA)
 
