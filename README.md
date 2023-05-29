@@ -18,4 +18,5 @@ Assalomu Alekum !
 
 VA YANA QO'SHIMCHA 3 XIL TIL MAVJUD(RUSCHA, O'ZBEKCHA, INGLIZCHA)
 
-Ma'lumotlar bazasi ishlashi uchun : databases faylidagi ma'lumotlar bo'yicha db yarating. https://localhost/phpmyadmin
+Ma'lumotlar bazasi ishlashi uchun : databases faylidagi ma'lumotlar bo'yicha db yarating. (albatta xampp ni ishga tushitgan holda) 
+https://localhost/phpmyadmin
