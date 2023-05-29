@@ -102,14 +102,7 @@ section{
 }
 
 #pss input{
-    width: 210px;
     border: none;
-}
-
-#pss img{
-    margin-left: 10px;
-    width: 30px;
-    height: 20px;
 }
 
 #dd{
