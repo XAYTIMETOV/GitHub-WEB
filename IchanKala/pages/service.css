@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+*::-webkit-scrollbar{
+    display: none;
+}
+
+#general{
+    background-image: url(../images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px 0;
+    background: #000;
+    color: cyan;
+    position: sticky;
+    top: 0;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+}
+
+nav{
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    padding: 10px 0;
+}
+
+#info-box{
+    padding: 50px 100px;
+}
+
+#info-box a{
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    border: solid 2px black;
+    margin: 20px 0;
+    display: flex;
+}
+
+#info-box h1{
+    font-size: 40px;
+    margin: 10px;
+    color: cyan;
+}
+
+#info-box p{
+    font-size: 20px;
+    color: white;
+    margin: 0 10px;
+}
+
+#info-box img{
+    width: 250px;
+}
+
+#back-btn img{
+    width: 50px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
